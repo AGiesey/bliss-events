@@ -1,0 +1,66 @@
+.reveal-div {
+	background: rgba(135, 206, 250, 0.3);
+	border: 1px solid pink;
+	box-sizing: border-box;
+}
+
+footer, header {
+	background-color: #B0C4DE;
+}
+
+.height-200 {
+	height: 150px
+}
+
+.height-max {
+	height: 100%;
+}
+
+.menu {
+	text-align: center;
+	padding:0;
+}
+
+.menu ul {
+	list-style-type: none;
+}
+
+.menu li {
+	display: inline-block;
+	font-size: 20px;
+	margin: 10px 10px 0 10px;
+}
+
+.menu li:first-child {
+	display: inline-block;
+	font-size: 20px;
+	margin: 10px 10px 0 0;
+}
+
+.menu
+
+.social {
+	list-style-type: none;
+}
+
+.social li {
+	display: inline-block;
+	font-size: 20px;
+	margin: 10px 10px 0 10px;
+}
+
+.team-photo {
+	max-width: 100%;
+	margin-top:20px;
+}
+
+.wp-image-36 {
+	max-width:100%;
+}
+
+.main-body {
+	margin-bottom:100px;
+}
+
+
+
